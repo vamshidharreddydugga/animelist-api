@@ -105,12 +105,3 @@ body {
     transform: rotate(360deg);
   }
 }
-
-.server-error {
-  color: #ff4d4d;
-}
-
-.server-error p {
-  margin: 0;
-  font-size: 18px;
-}
